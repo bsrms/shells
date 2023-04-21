@@ -3,4 +3,6 @@
 
 コードもそのうち追加するかもしれない
 
-[4次元貝](4Dshells.md)
+[成長管モデル](GrowingTubeModel.md)
+
+[4次元巻貝](4Dshells.md)
